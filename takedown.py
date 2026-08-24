@@ -23,8 +23,8 @@ import os
 from datetime import datetime
 
 # ========== KONFIGURASI YANG MULIA ==========
-TARGET_USERNAME = "username_penipu"  # Ganti dengan username penipu
-OFFENDING_URL = "https://www.instagram.com/p/CONTOH_POST/"  # Ganti dengan link postingan wajah Anda
+TARGET_USERNAME = "adzkiyaaaa_"  # Ganti dengan username penipu
+OFFENDING_URL = "https://www.instagram.com/adzkiyaaaa_?igsi=cTBjYW05MXp4NWQz"  # Ganti dengan link postingan wajah Anda
 
 # Daftar akun pelapor (tambahkan sebanyak mungkin, Yang Mulia)
 REPORTER_ACCOUNTS = [
